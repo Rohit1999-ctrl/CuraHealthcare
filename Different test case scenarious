@@ -1,0 +1,13 @@
+Different test cases
+Sign up page
+-invalid username done
+-invalid password done
+-valid username and password done
+
+Appointment page
+-incorrect date
+-valid valued form fill-up done
+
+Appointment confirmation page
+-confirmation successful done
+-confirmation error done

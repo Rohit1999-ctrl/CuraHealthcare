@@ -1,0 +1,362 @@
+2024-01-27 10:31:05,109 logs: INFO : test_loginStatus : Appointment button clicked
+2024-01-27 10:31:10,109 logs: INFO : test_loginStatus : Begin login
+2024-01-27 10:31:11,424 logs: INFO : test_loginStatus : login completed
+2024-01-27 10:31:16,994 logs: ERROR : test_loginStatus : Exception error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1405E42+3538674]
+	(No symbol) [0x00007FF7D1024C02]
+	(No symbol) [0x00007FF7D0ED5AEB]
+	(No symbol) [0x00007FF7D0F1BF4E]
+	(No symbol) [0x00007FF7D0F1C0CC]
+	(No symbol) [0x00007FF7D0F5E477]
+	(No symbol) [0x00007FF7D0F3F0EF]
+	(No symbol) [0x00007FF7D0F5BDE3]
+	(No symbol) [0x00007FF7D0F3EE53]
+	(No symbol) [0x00007FF7D0F0F514]
+	(No symbol) [0x00007FF7D0F10631]
+	GetHandleVerifier [0x00007FF7D1436CAD+3738973]
+	GetHandleVerifier [0x00007FF7D148C506+4089270]
+	GetHandleVerifier [0x00007FF7D1484823+4057299]
+	GetHandleVerifier [0x00007FF7D1155C49+720121]
+	(No symbol) [0x00007FF7D103126F]
+	(No symbol) [0x00007FF7D102C304]
+	(No symbol) [0x00007FF7D102C432]
+	(No symbol) [0x00007FF7D101BD04]
+	BaseThreadInitThunk [0x00007FFFEDBD257D+29]
+	RtlUserThreadStart [0x00007FFFEFBAAA58+40]
+
+2024-01-27 10:32:30,750 logs: INFO : test_loginStatus : Appointment button clicked
+2024-01-27 10:32:35,753 logs: INFO : test_loginStatus : Begin login
+2024-01-27 10:32:36,590 logs: INFO : test_loginStatus : login completed
+2024-01-27 10:32:42,150 logs: ERROR : test_loginStatus : Exception error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1405E42+3538674]
+	(No symbol) [0x00007FF7D1024C02]
+	(No symbol) [0x00007FF7D0ED5AEB]
+	(No symbol) [0x00007FF7D0F1BF4E]
+	(No symbol) [0x00007FF7D0F1C0CC]
+	(No symbol) [0x00007FF7D0F5E477]
+	(No symbol) [0x00007FF7D0F3F0EF]
+	(No symbol) [0x00007FF7D0F5BDE3]
+	(No symbol) [0x00007FF7D0F3EE53]
+	(No symbol) [0x00007FF7D0F0F514]
+	(No symbol) [0x00007FF7D0F10631]
+	GetHandleVerifier [0x00007FF7D1436CAD+3738973]
+	GetHandleVerifier [0x00007FF7D148C506+4089270]
+	GetHandleVerifier [0x00007FF7D1484823+4057299]
+	GetHandleVerifier [0x00007FF7D1155C49+720121]
+	(No symbol) [0x00007FF7D103126F]
+	(No symbol) [0x00007FF7D102C304]
+	(No symbol) [0x00007FF7D102C432]
+	(No symbol) [0x00007FF7D101BD04]
+	BaseThreadInitThunk [0x00007FFFEDBD257D+29]
+	RtlUserThreadStart [0x00007FFFEFBAAA58+40]
+
+2024-01-27 10:32:45,167 logs: INFO : test_appointment_details : filling the appointment form
+2024-01-27 10:35:11,304 logs: INFO : test_loginStatus : Appointment button clicked
+2024-01-27 10:35:16,312 logs: INFO : test_loginStatus : Begin login
+2024-01-27 10:35:17,231 logs: INFO : test_loginStatus : login completed
+2024-01-27 10:35:22,797 logs: ERROR : test_loginStatus : Exception error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1405E42+3538674]
+	(No symbol) [0x00007FF7D1024C02]
+	(No symbol) [0x00007FF7D0ED5AEB]
+	(No symbol) [0x00007FF7D0F1BF4E]
+	(No symbol) [0x00007FF7D0F1C0CC]
+	(No symbol) [0x00007FF7D0F5E477]
+	(No symbol) [0x00007FF7D0F3F0EF]
+	(No symbol) [0x00007FF7D0F5BDE3]
+	(No symbol) [0x00007FF7D0F3EE53]
+	(No symbol) [0x00007FF7D0F0F514]
+	(No symbol) [0x00007FF7D0F10631]
+	GetHandleVerifier [0x00007FF7D1436CAD+3738973]
+	GetHandleVerifier [0x00007FF7D148C506+4089270]
+	GetHandleVerifier [0x00007FF7D1484823+4057299]
+	GetHandleVerifier [0x00007FF7D1155C49+720121]
+	(No symbol) [0x00007FF7D103126F]
+	(No symbol) [0x00007FF7D102C304]
+	(No symbol) [0x00007FF7D102C432]
+	(No symbol) [0x00007FF7D101BD04]
+	BaseThreadInitThunk [0x00007FFFEDBD257D+29]
+	RtlUserThreadStart [0x00007FFFEFBAAA58+40]
+
+2024-01-27 10:35:25,802 logs: INFO : test_appointment_details : filling the appointment form
+2024-01-27 10:38:58,750 logs: INFO : test_loginStatus : Appointment button clicked
+2024-01-27 10:39:03,756 logs: INFO : test_loginStatus : Begin login
+2024-01-27 10:39:05,096 logs: INFO : test_loginStatus : login completed
+2024-01-27 10:39:10,643 logs: ERROR : test_loginStatus : Exception error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1405E42+3538674]
+	(No symbol) [0x00007FF7D1024C02]
+	(No symbol) [0x00007FF7D0ED5AEB]
+	(No symbol) [0x00007FF7D0F1BF4E]
+	(No symbol) [0x00007FF7D0F1C0CC]
+	(No symbol) [0x00007FF7D0F5E477]
+	(No symbol) [0x00007FF7D0F3F0EF]
+	(No symbol) [0x00007FF7D0F5BDE3]
+	(No symbol) [0x00007FF7D0F3EE53]
+	(No symbol) [0x00007FF7D0F0F514]
+	(No symbol) [0x00007FF7D0F10631]
+	GetHandleVerifier [0x00007FF7D1436CAD+3738973]
+	GetHandleVerifier [0x00007FF7D148C506+4089270]
+	GetHandleVerifier [0x00007FF7D1484823+4057299]
+	GetHandleVerifier [0x00007FF7D1155C49+720121]
+	(No symbol) [0x00007FF7D103126F]
+	(No symbol) [0x00007FF7D102C304]
+	(No symbol) [0x00007FF7D102C432]
+	(No symbol) [0x00007FF7D101BD04]
+	BaseThreadInitThunk [0x00007FFFEDBD257D+29]
+	RtlUserThreadStart [0x00007FFFEFBAAA58+40]
+
+2024-01-27 10:39:13,659 logs: INFO : test_appointment_details : filling the appointment form
+2024-01-27 10:39:13,659 logs: INFO : test_appointment_details : Selecting facility
+2024-01-27 10:39:13,747 logs: INFO : test_appointment_details : ticking hospital re-admission facility
+2024-01-27 10:39:13,811 logs: INFO : test_appointment_details : Selecting Healthcare program
+2024-01-27 10:41:12,960 logs: INFO : test_loginStatus : Appointment button clicked
+2024-01-27 10:41:17,972 logs: INFO : test_loginStatus : Begin login
+2024-01-27 10:41:19,274 logs: INFO : test_loginStatus : login completed
+2024-01-27 10:41:24,790 logs: ERROR : test_loginStatus : Exception error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1405E42+3538674]
+	(No symbol) [0x00007FF7D1024C02]
+	(No symbol) [0x00007FF7D0ED5AEB]
+	(No symbol) [0x00007FF7D0F1BF4E]
+	(No symbol) [0x00007FF7D0F1C0CC]
+	(No symbol) [0x00007FF7D0F5E477]
+	(No symbol) [0x00007FF7D0F3F0EF]
+	(No symbol) [0x00007FF7D0F5BDE3]
+	(No symbol) [0x00007FF7D0F3EE53]
+	(No symbol) [0x00007FF7D0F0F514]
+	(No symbol) [0x00007FF7D0F10631]
+	GetHandleVerifier [0x00007FF7D1436CAD+3738973]
+	GetHandleVerifier [0x00007FF7D148C506+4089270]
+	GetHandleVerifier [0x00007FF7D1484823+4057299]
+	GetHandleVerifier [0x00007FF7D1155C49+720121]
+	(No symbol) [0x00007FF7D103126F]
+	(No symbol) [0x00007FF7D102C304]
+	(No symbol) [0x00007FF7D102C432]
+	(No symbol) [0x00007FF7D101BD04]
+	BaseThreadInitThunk [0x00007FFFEDBD257D+29]
+	RtlUserThreadStart [0x00007FFFEFBAAA58+40]
+
+2024-01-27 10:41:27,797 logs: INFO : test_appointment_details : filling the appointment form
+2024-01-27 10:41:27,797 logs: INFO : test_appointment_details : Selecting facility
+2024-01-27 10:41:27,889 logs: INFO : test_appointment_details : ticking hospital re-admission facility
+2024-01-27 10:41:27,995 logs: INFO : test_appointment_details : Selecting Healthcare program
+2024-01-27 10:42:09,239 logs: INFO : test_loginStatus : Appointment button clicked
+2024-01-27 10:42:14,249 logs: INFO : test_loginStatus : Begin login
+2024-01-27 10:42:15,541 logs: INFO : test_loginStatus : login completed
+2024-01-27 10:42:21,113 logs: ERROR : test_loginStatus : Exception error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1405E42+3538674]
+	(No symbol) [0x00007FF7D1024C02]
+	(No symbol) [0x00007FF7D0ED5AEB]
+	(No symbol) [0x00007FF7D0F1BF4E]
+	(No symbol) [0x00007FF7D0F1C0CC]
+	(No symbol) [0x00007FF7D0F5E477]
+	(No symbol) [0x00007FF7D0F3F0EF]
+	(No symbol) [0x00007FF7D0F5BDE3]
+	(No symbol) [0x00007FF7D0F3EE53]
+	(No symbol) [0x00007FF7D0F0F514]
+	(No symbol) [0x00007FF7D0F10631]
+	GetHandleVerifier [0x00007FF7D1436CAD+3738973]
+	GetHandleVerifier [0x00007FF7D148C506+4089270]
+	GetHandleVerifier [0x00007FF7D1484823+4057299]
+	GetHandleVerifier [0x00007FF7D1155C49+720121]
+	(No symbol) [0x00007FF7D103126F]
+	(No symbol) [0x00007FF7D102C304]
+	(No symbol) [0x00007FF7D102C432]
+	(No symbol) [0x00007FF7D101BD04]
+	BaseThreadInitThunk [0x00007FFFEDBD257D+29]
+	RtlUserThreadStart [0x00007FFFEFBAAA58+40]
+
+2024-01-27 10:42:24,130 logs: INFO : test_appointment_details : filling the appointment form
+2024-01-27 10:42:24,130 logs: INFO : test_appointment_details : Selecting facility
+2024-01-27 10:42:26,235 logs: INFO : test_appointment_details : ticking hospital re-admission facility
+2024-01-27 10:42:28,283 logs: INFO : test_appointment_details : Selecting Healthcare program
+2024-01-27 10:42:50,270 logs: INFO : test_loginStatus : Appointment button clicked
+2024-01-27 10:42:55,284 logs: INFO : test_loginStatus : Begin login
+2024-01-27 10:42:56,586 logs: INFO : test_loginStatus : login completed
+2024-01-27 10:43:02,137 logs: ERROR : test_loginStatus : Exception error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1405E42+3538674]
+	(No symbol) [0x00007FF7D1024C02]
+	(No symbol) [0x00007FF7D0ED5AEB]
+	(No symbol) [0x00007FF7D0F1BF4E]
+	(No symbol) [0x00007FF7D0F1C0CC]
+	(No symbol) [0x00007FF7D0F5E477]
+	(No symbol) [0x00007FF7D0F3F0EF]
+	(No symbol) [0x00007FF7D0F5BDE3]
+	(No symbol) [0x00007FF7D0F3EE53]
+	(No symbol) [0x00007FF7D0F0F514]
+	(No symbol) [0x00007FF7D0F10631]
+	GetHandleVerifier [0x00007FF7D1436CAD+3738973]
+	GetHandleVerifier [0x00007FF7D148C506+4089270]
+	GetHandleVerifier [0x00007FF7D1484823+4057299]
+	GetHandleVerifier [0x00007FF7D1155C49+720121]
+	(No symbol) [0x00007FF7D103126F]
+	(No symbol) [0x00007FF7D102C304]
+	(No symbol) [0x00007FF7D102C432]
+	(No symbol) [0x00007FF7D101BD04]
+	BaseThreadInitThunk [0x00007FFFEDBD257D+29]
+	RtlUserThreadStart [0x00007FFFEFBAAA58+40]
+
+2024-01-27 10:43:05,150 logs: INFO : test_appointment_details : filling the appointment form
+2024-01-27 10:43:05,150 logs: INFO : test_appointment_details : Selecting facility
+2024-01-27 10:43:07,255 logs: INFO : test_appointment_details : ticking hospital re-admission facility
+2024-01-27 10:43:09,314 logs: INFO : test_appointment_details : Selecting Healthcare program
+2024-01-27 10:44:36,749 logs: INFO : test_loginStatus : Appointment button clicked
+2024-01-27 10:44:41,761 logs: INFO : test_loginStatus : Begin login
+2024-01-27 10:44:43,089 logs: INFO : test_loginStatus : login completed
+2024-01-27 10:44:48,656 logs: ERROR : test_loginStatus : Exception error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1405E42+3538674]
+	(No symbol) [0x00007FF7D1024C02]
+	(No symbol) [0x00007FF7D0ED5AEB]
+	(No symbol) [0x00007FF7D0F1BF4E]
+	(No symbol) [0x00007FF7D0F1C0CC]
+	(No symbol) [0x00007FF7D0F5E477]
+	(No symbol) [0x00007FF7D0F3F0EF]
+	(No symbol) [0x00007FF7D0F5BDE3]
+	(No symbol) [0x00007FF7D0F3EE53]
+	(No symbol) [0x00007FF7D0F0F514]
+	(No symbol) [0x00007FF7D0F10631]
+	GetHandleVerifier [0x00007FF7D1436CAD+3738973]
+	GetHandleVerifier [0x00007FF7D148C506+4089270]
+	GetHandleVerifier [0x00007FF7D1484823+4057299]
+	GetHandleVerifier [0x00007FF7D1155C49+720121]
+	(No symbol) [0x00007FF7D103126F]
+	(No symbol) [0x00007FF7D102C304]
+	(No symbol) [0x00007FF7D102C432]
+	(No symbol) [0x00007FF7D101BD04]
+	BaseThreadInitThunk [0x00007FFFEDBD257D+29]
+	RtlUserThreadStart [0x00007FFFEFBAAA58+40]
+
+2024-01-27 10:44:51,670 logs: INFO : test_appointment_details : filling the appointment form
+2024-01-27 10:44:51,670 logs: INFO : test_appointment_details : Selecting facility
+2024-01-27 10:44:53,769 logs: INFO : test_appointment_details : ticking hospital re-admission facility
+2024-01-27 10:44:55,830 logs: INFO : test_appointment_details : Selecting Healthcare program
+2024-01-27 10:46:47,529 logs: INFO : test_loginStatus : Appointment button clicked
+2024-01-27 10:46:52,541 logs: INFO : test_loginStatus : Begin login
+2024-01-27 10:46:53,849 logs: INFO : test_loginStatus : login completed
+2024-01-27 10:46:59,395 logs: ERROR : test_loginStatus : Exception error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1405E42+3538674]
+	(No symbol) [0x00007FF7D1024C02]
+	(No symbol) [0x00007FF7D0ED5AEB]
+	(No symbol) [0x00007FF7D0F1BF4E]
+	(No symbol) [0x00007FF7D0F1C0CC]
+	(No symbol) [0x00007FF7D0F5E477]
+	(No symbol) [0x00007FF7D0F3F0EF]
+	(No symbol) [0x00007FF7D0F5BDE3]
+	(No symbol) [0x00007FF7D0F3EE53]
+	(No symbol) [0x00007FF7D0F0F514]
+	(No symbol) [0x00007FF7D0F10631]
+	GetHandleVerifier [0x00007FF7D1436CAD+3738973]
+	GetHandleVerifier [0x00007FF7D148C506+4089270]
+	GetHandleVerifier [0x00007FF7D1484823+4057299]
+	GetHandleVerifier [0x00007FF7D1155C49+720121]
+	(No symbol) [0x00007FF7D103126F]
+	(No symbol) [0x00007FF7D102C304]
+	(No symbol) [0x00007FF7D102C432]
+	(No symbol) [0x00007FF7D101BD04]
+	BaseThreadInitThunk [0x00007FFFEDBD257D+29]
+	RtlUserThreadStart [0x00007FFFEFBAAA58+40]
+
+2024-01-27 10:47:02,412 logs: INFO : test_appointment_details : filling the appointment form
+2024-01-27 10:47:02,413 logs: INFO : test_appointment_details : Selecting facility
+2024-01-27 10:47:04,515 logs: INFO : test_appointment_details : ticking hospital re-admission facility
+2024-01-27 10:47:06,577 logs: INFO : test_appointment_details : Selecting Healthcare program
+2024-01-27 10:48:19,683 logs: INFO : test_loginStatus : Appointment button clicked
+2024-01-27 10:48:24,692 logs: INFO : test_loginStatus : Begin login
+2024-01-27 10:48:26,020 logs: INFO : test_loginStatus : login completed
+2024-01-27 10:48:31,579 logs: ERROR : test_loginStatus : Exception error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1405E42+3538674]
+	(No symbol) [0x00007FF7D1024C02]
+	(No symbol) [0x00007FF7D0ED5AEB]
+	(No symbol) [0x00007FF7D0F1BF4E]
+	(No symbol) [0x00007FF7D0F1C0CC]
+	(No symbol) [0x00007FF7D0F5E477]
+	(No symbol) [0x00007FF7D0F3F0EF]
+	(No symbol) [0x00007FF7D0F5BDE3]
+	(No symbol) [0x00007FF7D0F3EE53]
+	(No symbol) [0x00007FF7D0F0F514]
+	(No symbol) [0x00007FF7D0F10631]
+	GetHandleVerifier [0x00007FF7D1436CAD+3738973]
+	GetHandleVerifier [0x00007FF7D148C506+4089270]
+	GetHandleVerifier [0x00007FF7D1484823+4057299]
+	GetHandleVerifier [0x00007FF7D1155C49+720121]
+	(No symbol) [0x00007FF7D103126F]
+	(No symbol) [0x00007FF7D102C304]
+	(No symbol) [0x00007FF7D102C432]
+	(No symbol) [0x00007FF7D101BD04]
+	BaseThreadInitThunk [0x00007FFFEDBD257D+29]
+	RtlUserThreadStart [0x00007FFFEFBAAA58+40]
+
+2024-01-27 10:48:34,599 logs: INFO : test_appointment_details : filling the appointment form
+2024-01-27 10:48:34,600 logs: INFO : test_appointment_details : Selecting facility
+2024-01-27 10:48:36,698 logs: INFO : test_appointment_details : ticking hospital re-admission facility
+2024-01-27 10:48:38,758 logs: INFO : test_appointment_details : Selecting Healthcare program
+2024-01-27 10:53:40,150 logs: INFO : test_loginStatus : Appointment button clicked
+2024-01-27 10:53:45,165 logs: INFO : test_loginStatus : Begin login
+2024-01-27 10:53:46,512 logs: INFO : test_loginStatus : login completed
+2024-01-27 10:53:52,079 logs: ERROR : test_loginStatus : Exception error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1405E42+3538674]
+	(No symbol) [0x00007FF7D1024C02]
+	(No symbol) [0x00007FF7D0ED5AEB]
+	(No symbol) [0x00007FF7D0F1BF4E]
+	(No symbol) [0x00007FF7D0F1C0CC]
+	(No symbol) [0x00007FF7D0F5E477]
+	(No symbol) [0x00007FF7D0F3F0EF]
+	(No symbol) [0x00007FF7D0F5BDE3]
+	(No symbol) [0x00007FF7D0F3EE53]
+	(No symbol) [0x00007FF7D0F0F514]
+	(No symbol) [0x00007FF7D0F10631]
+	GetHandleVerifier [0x00007FF7D1436CAD+3738973]
+	GetHandleVerifier [0x00007FF7D148C506+4089270]
+	GetHandleVerifier [0x00007FF7D1484823+4057299]
+	GetHandleVerifier [0x00007FF7D1155C49+720121]
+	(No symbol) [0x00007FF7D103126F]
+	(No symbol) [0x00007FF7D102C304]
+	(No symbol) [0x00007FF7D102C432]
+	(No symbol) [0x00007FF7D101BD04]
+	BaseThreadInitThunk [0x00007FFFEDBD257D+29]
+	RtlUserThreadStart [0x00007FFFEFBAAA58+40]
+
+2024-01-27 10:53:55,099 logs: INFO : test_appointment_details : filling the appointment form
+2024-01-27 10:53:55,099 logs: INFO : test_appointment_details : Selecting facility
+2024-01-27 10:53:57,195 logs: INFO : test_appointment_details : ticking hospital re-admission facility
+2024-01-27 10:53:59,252 logs: INFO : test_appointment_details : Selecting Healthcare program
+2024-01-27 10:55:36,419 logs: INFO : test_loginStatus : Appointment button clicked
+2024-01-27 10:55:41,422 logs: INFO : test_loginStatus : Begin login
+2024-01-27 10:55:42,734 logs: INFO : test_loginStatus : login completed
+2024-01-27 10:55:48,305 logs: ERROR : test_loginStatus : Exception error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1405E42+3538674]
+	(No symbol) [0x00007FF7D1024C02]
+	(No symbol) [0x00007FF7D0ED5AEB]
+	(No symbol) [0x00007FF7D0F1BF4E]
+	(No symbol) [0x00007FF7D0F1C0CC]
+	(No symbol) [0x00007FF7D0F5E477]
+	(No symbol) [0x00007FF7D0F3F0EF]
+	(No symbol) [0x00007FF7D0F5BDE3]
+	(No symbol) [0x00007FF7D0F3EE53]
+	(No symbol) [0x00007FF7D0F0F514]
+	(No symbol) [0x00007FF7D0F10631]
+	GetHandleVerifier [0x00007FF7D1436CAD+3738973]
+	GetHandleVerifier [0x00007FF7D148C506+4089270]
+	GetHandleVerifier [0x00007FF7D1484823+4057299]
+	GetHandleVerifier [0x00007FF7D1155C49+720121]
+	(No symbol) [0x00007FF7D103126F]
+	(No symbol) [0x00007FF7D102C304]
+	(No symbol) [0x00007FF7D102C432]
+	(No symbol) [0x00007FF7D101BD04]
+	BaseThreadInitThunk [0x00007FFFEDBD257D+29]
+	RtlUserThreadStart [0x00007FFFEFBAAA58+40]
+
+2024-01-27 10:55:51,319 logs: INFO : test_appointment_details : filling the appointment form
+2024-01-27 10:55:51,319 logs: INFO : test_appointment_details : Selecting facility
+2024-01-27 10:55:53,421 logs: INFO : test_appointment_details : ticking hospital re-admission facility
+2024-01-27 10:55:55,481 logs: INFO : test_appointment_details : Selecting Healthcare program
